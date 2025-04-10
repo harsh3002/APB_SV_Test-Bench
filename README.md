@@ -1,3 +1,5 @@
+NOTE: DESIGN NOT ADDED DUE TO COPYRIGHT 
+
 APB Testbench in SystemVerilog
 Overview
 This repository contains a SystemVerilog Testbench designed to verify an APB (Advanced Peripheral Bus) compliant slave device.
